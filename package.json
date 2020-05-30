@@ -1,0 +1,15 @@
+{
+  "name": "darkest-one-dark-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "This is just edited one-dark theme, its just darker and colors are more colorful.",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/oliver4u/darkest-one-dark-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
